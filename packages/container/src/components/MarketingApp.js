@@ -10,8 +10,8 @@ export default () => {
 
   return (
     <div>
-      <div ref={ref}></div>
       {/* <h1>Hi there</h1> */}
+      <div ref={ref}></div>
     </div>
   );
 };
